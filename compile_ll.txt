@@ -1,0 +1,1 @@
+clang optimised.ll -fno-stack-protector -no-pie -fno-pic -m32  -o optimised
